@@ -10,7 +10,6 @@ while ($number < 9) {
     echo "$number <br>";
 }
 if ($number == 9) {
-    echo "Im now a $number<br>";
     echo "Dammit, I'm like a confused 6";
 }
 ?>
